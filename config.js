@@ -19,22 +19,22 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
+    // {
+    //   label: 'Contact me',
+    //   path: '/pages/contacts'
+    // }
   ],
   author: {
     name: 'Aria Rajasa',
     photo: '/photo.jpg',
     bio:
-      'Founder Tees.co.id, OfficeBee.co, currently advising karyakarsa.com. Talking about tech scene and business model analysis',
+      'Founder Tees.co.id, OfficeBee.co, currently advising karyakarsa.com. Discussing tech, design and business model',
     contacts: {
       email: 'aria@rajasa.com',
       telegram: '',
-      twitter: '@rajasa',
-      instagram: '@rajasa',
+      twitter: 'rajasa',
+      instagram: 'rajasa',
       github: '',
       rss: '',
       vkontakte: ''
