@@ -1,15 +1,15 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://rajasa.com',
   pathPrefix: '/',
   title: 'Jurnal Aria Rajasa',
   subtitle:
     'Founder Tees.co.id, OfficeBee.co, currently advising karyakarsa.com. Talking about tech scene and business model analysis',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'rajasa',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-3527827-1',
   useKatex: false,
   menu: [
     {
