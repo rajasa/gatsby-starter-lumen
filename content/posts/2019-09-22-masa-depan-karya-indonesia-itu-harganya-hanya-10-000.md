@@ -17,7 +17,7 @@ tags:
   - karyakarsa
   - wallpaper
 ---
-![Wallpaper karya @adhityazul di karyakarsa.com](/media/post-5d7f13bf61d7e.jpg "Wallpaper karya @adhityazul di karyakarsa.com")
+[![Wallpaper karya @adhityazul di karyakarsa.com](/media/post-5d7f13bf61d7e.jpg "Wallpaper karya @adhityazul di karyakarsa.com")](https://karyakarsa.com/adhityazul)
 
 Wallpaper smartphone harga 10,000 rupiah mahal ga si? Pertanyaan itulah yang dilontarkan oleh [@adhityazul](https://karyakarsa.com/adhityazul) ketika membuat halaman Karyakarsa-nya.
 
@@ -31,7 +31,7 @@ Apa yang sinonim dengan kata seniman di Indonesia? Kemiskinan, hidup susah dan "
 
 Padahal apa si yang kita konsumsi secara berlebihan sehari-hari? Berita, film, musik, bahkan posting sosial media itu karya dari masing-masing orang yang membuatnya. Banyak yang tersedia secara gratis, tapi tentu saja tidak gratis untuk membuatnya.
 
-Menulis, menggambar, berkarya itu butuh keahlian yang mungkin harus dilatih bertahun-tahun dengan penuh dedikasi. Itu lah yang 10rb rupiah kamu bayarkan. Tahunnya, bukan hasilnya.
+Menulis, menggambar, berkarya itu butuh keahlian yang mungkin harus dilatih bertahun-tahun dengan penuh dedikasi. Itu lah yang 10,000 rupiah kamu bayarkan. Tahunnya, bukan hasilnya.
 
 [Comico](https://www.comico.co.id/), layanan penyedia komik online, [baru saja mengumumkan pemberhentian layanannya](https://twitter.com/comicoIndonesia/status/1168029465831591936). Alasannya pasti karena kurangnya pengguna BERBAYAR di platform tersebut. Karena ga ada perusahaan yang mati karena kebanyakan duit. Karya itu tidak ada harganya di Indonesia, dan kalian dengan dompet masing-masing turut andil dalam memutuskan itu.
 
