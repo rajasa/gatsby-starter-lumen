@@ -1,13 +1,19 @@
 ---
-title: "Sell Yourself, Not Your Idea"
-date: "2012-02-15T22:12:03.284Z"
-template: "post"
+template: post
+title: 'Sell Yourself, Not Your Idea'
+slug: /posts/sell-yourself-not-your-idea/
 draft: false
-slug: "/posts/sell-yourself-not-your-idea/"
-category: "Opinion"
+date: '2012-02-15T22:12:03.284Z'
+description: >-
+  I can never stress enough that idea is cheap, it’s worthless on it’s own.
+  Execution is what matters. But what about the guys that can get funding even
+  before they have a product? They’re just selling ideas right? Well, it’s not
+  that simple. When you pitch an idea, you’re not actually selling the idea, you
+  are actually selling yourself. Investors believe in the idea if he believes in
+  you, your history or the cool word for it: Your street cred.
+category: Opini
 tags:
-  - "Opinion"
-description: "I can never stress enough that idea is cheap, it’s worthless on it’s own. Execution is what matters. But what about the guys that can get funding even before they have a product? They’re just selling ideas right? Well, it’s not that simple. When you pitch an idea, you’re not actually selling the idea, you are actually selling yourself. Investors believe in the idea if he believes in you, your history or the cool word for it: Your street cred."
+  - Opinion
 ---
 
 I can never stress enough that idea is cheap, it’s worthless on it’s own. Execution is what matters. But what about the guys that can get funding even before they have a product? They’re just selling ideas right? Well, it’s not that simple. When you pitch an idea, you’re not actually selling the idea, you are actually selling yourself. Investors believe in the idea if he believes in you, your history or the cool word for it: <span style="text-decoration: underline;">Your street cred</span>.
