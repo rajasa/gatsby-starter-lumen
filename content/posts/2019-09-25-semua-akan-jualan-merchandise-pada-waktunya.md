@@ -1,8 +1,8 @@
 ---
 template: post
-title: Semua akan jualan merchandise pada waktunya..
+title: Semua akan jualan merchandise pada waktunya
 slug: semua-akan-jualan-merchandise-pada-waktunya
-draft: true
+draft: false
 date: 2019-09-25T02:33:55.439Z
 description: >-
   Hello Kitty itu adalah bisnis serius. Tahukah kalian bahwa Hello Kitty,
